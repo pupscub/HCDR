@@ -1,0 +1,2 @@
+input/*.csv      # Ignores all CSV files in the 'input' folder
+output/*.csv      # Ignores all CSV files in the 'output' folder
